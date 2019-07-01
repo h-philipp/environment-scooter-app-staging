@@ -10,6 +10,9 @@ dependencies:
 - name: quickstart
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: quickstart-nodejs
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: scooters
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.12
