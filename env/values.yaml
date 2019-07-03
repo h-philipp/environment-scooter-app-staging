@@ -18,7 +18,7 @@ expose:
   - --v
   - 4
   config:
-    domain: 35.157.101.39.nip.io
+    domain: ab278b5479d7411e9a7d502ac464fbf8-a2c0b4c9cb26dda9.elb.eu-central-1.amazonaws.com
     exposer: Ingress
     http: "true"
 jenkins:
